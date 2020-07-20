@@ -14,9 +14,6 @@ var parent = document.getElementsByTagName("body")[0];
 parent.insertBefore(showTxt, parent.firstChild);
 
 
-function commentFlow(){
-//流すしょりをつくりたい
-}
 
 function remove_stikyHeader(){
     var header =  document.getElementsByTagName("header");
