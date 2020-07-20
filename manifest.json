@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "remove_header",
+  "version": "1",
+
+  "content_scripts": [
+    {
+      "matches": [ "https://ai-scholar.tech/*"],
+      "js": [ "remove.js" ],
+      "run_at": "document_end"
+    }
+  ]
+
+}
