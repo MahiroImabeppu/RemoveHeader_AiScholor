@@ -4,6 +4,8 @@
     header[0].style.position = 'relative';
 }
 
+
+//以下はなくても動くと思われる
 function ObserveStream(){
     //オブザーバーの作成
     var observer = new MutationObserver(() => {
