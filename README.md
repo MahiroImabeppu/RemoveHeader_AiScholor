@@ -1,5 +1,6 @@
 # RemoveHeader_AiScolor
-AI-Scholorでついてくるヘッダーを消すようなgoogle拡張機能
+AI-Scholorでついてくるヘッダーを消すようなgoogle拡張機能  
+AI-Scholorでヘッダーが邪魔してくるので消してほしいといった要望から作成
 
 # 使い方
 1. Chromeの拡張機能のデベロッパーツールをONにする．
